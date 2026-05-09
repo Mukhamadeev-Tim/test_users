@@ -12,11 +12,13 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/test_users/main/static/menu.png)
+<img width="825" height="568" alt="photo_2026-05-09_16-58-05" src="https://github.com/user-attachments/assets/2d499878-d641-4f28-a735-89978089c7ba" />
+
 
 После выбора количества пользователей:
 
-![image](https://raw.githubusercontent.com/German-D/test_users/main/static/generate.png)
+<img width="827" height="871" alt="photo_2026-05-09_16-57-47" src="https://github.com/user-attachments/assets/0f187c16-2471-4aaf-bac0-205c3bddf412" />
+
 
 ## 💻 Технологии
 
