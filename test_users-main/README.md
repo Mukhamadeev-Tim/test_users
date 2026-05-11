@@ -59,4 +59,4 @@ python3 test_users_bot.py
 
 ## Автор
 
-Мухамадеев Тимур ([@Mukhamadeev_Ti](https://t.me/Mukhamadeev_Ti))
+Мухамадеев Тимур ([@tokitokiki](https://t.me/tokitokiki))
